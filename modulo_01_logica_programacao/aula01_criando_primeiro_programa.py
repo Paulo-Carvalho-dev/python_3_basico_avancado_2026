@@ -13,3 +13,19 @@ print('Ola mundo!')
 # Aqui comentario 
 print('Ola mundo! eu sou Python') # outro comentario
 # mais um comentario..
+
+#===========================================================================#
+# Comentario multilinhas Docstrings
+# Não é um comentario, utilizado para documentar o código.
+#===========================================================================#
+"""
+Aqui é um comentario
+multilinhas
+ola meu nome é Python
+"""
+
+'''
+Aqui é um outro
+comentario multilinhas.
+docstrings aspas simples
+'''
