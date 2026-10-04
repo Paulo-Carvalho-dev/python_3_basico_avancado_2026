@@ -10,11 +10,11 @@ print(1234)
 
 # Aspas simples
 
-print('Python é legal')
+print('Python é "legal"')
 
 # Aspas duplas
 
-print("Paulo Carvalho")
+print("Paulo 'Carvalho'")
 
 # Escape
 print("Paulo \"Carvalho\"")
