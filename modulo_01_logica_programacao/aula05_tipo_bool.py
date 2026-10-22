@@ -6,4 +6,5 @@
 # Dentre eles o ==, que é um operador lógico que
 # questiona se um valor é igual a outro
 
-
+print(10 == 10) # Sim => True (Verdadeiro)
+print(10 == 21) # nÃO => False (Falso)
