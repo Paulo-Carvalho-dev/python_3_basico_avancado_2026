@@ -1,0 +1,17 @@
+# Recrie as variaveis e apresente no terminal
+# nome, sobrenome, idade, ano nascimento, 
+# maior de idade e altura me metros
+
+nome = 'Paulo'
+sobrenome = 'Carvalho'
+ano_nascimento = 1989
+idade = 2026 - ano_nascimento
+maior_de_idade = idade >= 18
+altura_metros = 1.80
+
+print('Nome:', nome)
+print('Sobrenome:', sobrenome)
+print('Ano de nascimento:', ano_nascimento)
+print('idade:', idade)
+print('É maior de idade:', maior_de_idade)
+print('Altura em metros:', altura_metros)
