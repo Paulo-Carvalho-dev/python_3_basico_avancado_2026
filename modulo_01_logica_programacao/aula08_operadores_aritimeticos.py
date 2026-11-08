@@ -19,5 +19,8 @@ print('Exponenciação', exponenciacao)
 modulo = 55 % 2  # resto da divisão
 print('Módulo', modulo)
 
-
-
+print('Fazendo checagem com resto da divisão')
+print(10 % 8 == 0)
+print(16 % 8 == 0)
+print(10 % 2 == 0)
+print(15 % 2 == 0)
