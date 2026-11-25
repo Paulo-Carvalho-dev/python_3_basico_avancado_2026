@@ -10,7 +10,7 @@
 # usado para representar um não valor
 entrada = input('[E]ntrar [S]air: ')
 senha_digitada = input('Senha: ')
-senha_permitida = input('123456')
+senha_permitida = '123456'
 
 # if condição:
 if entrada == 'E' and senha_digitada == senha_permitida:
